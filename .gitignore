@@ -1,0 +1,16 @@
+# Vite
+dist/
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+
+# VSCode
+.vscode/
+
+# macOS
+__MACOSX/
+
+# Windows
+Thumbs.db
