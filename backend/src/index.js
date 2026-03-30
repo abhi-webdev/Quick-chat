@@ -14,7 +14,7 @@ const port = process.env.PORT || 5000
 
 app.use(cors({
     origin: ["http://localhost:5173",
-    "https://quick-chat-azure-phi.vercel.app"],
+    "https://quick-chat-p995u57d2-abhimanyu-kumars-projects-07c8c32a.vercel.app/login"],
     credentials: true
 }))
 app.use(express.json())
